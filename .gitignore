@@ -1,0 +1,19 @@
+Entorno virtual de Python
+/venv/
+venv/
+.venv/
+Archivos de caché y compilados de Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+Carpetas de editores de código e IDEs
+.vscode/
+.idea/
+*.swp
+Archivos de dependencias (si usamos pip freeze)
+pip-freeze.txt
+requirements.txt
+Archivos de sistema operativo
+.DS_Store
+Thumbs.db
